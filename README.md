@@ -11,7 +11,7 @@ Skills: Python / Java/ JS / HTML / CSS
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Hira-28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-652932317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/https://www.facebook.com/mehedi.hasanhira.18/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Hira-28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-652932317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='5'>](https://www.facebook.com/https://www.facebook.com/mehedi.hasanhira.18/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hira-28)](https://github.com/anuraghazra/github-readme-stats)
 
