@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Banner" height="100" width="100%">
+  <img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="Banner" height="100" width="70%">
 </h1>
 <h1 align="center">Hi, I'm Mehedi Hasan Hira</h1>
 <h5 align="center">A passionate frontend developer from Bangladesh</h5>
