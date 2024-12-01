@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/Hira-28/C-practice/blob/main/developer.gif" alt="Banner" height="100" width="50%">
 </h1>
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Hira</h1>
+<h1 align="center">Hi, I'm Mehedi Hasan Hira</h1>
 <h5 align="center">A passionate frontend developer from Bangladesh</h5>
 
 - 🔭 I’m currently working on **QuickDoctor**
