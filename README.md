@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/Hira-28/C-practice/blob/main/banner.gif" alt="Banner" width="50%">
+  <img src="https://github.com/Hira-28/C-practice/blob/main/banner.gif" alt="Banner" style="width:100%; max-height:100px;">
 </h1>
+
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Hira</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
