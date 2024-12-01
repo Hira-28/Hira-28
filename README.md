@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://your-repository-url/assets/banner-image.png" alt="Banner" width="100%">
+  <img src="[https://your-repository-url/assets/banner-image.png](https://th.bing.com/th/id/R.75e7ef7aa27009befb076509382b86b8?rik=1QmpCf7CFHxPvg&pid=ImgRaw&r=0)" alt="Banner" width="100%">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Hira</h1>
