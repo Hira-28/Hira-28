@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Hira-28/C-practice/blob/main/developer.gif" alt="Banner" height="100" width="70%">
+  <img src="https://github.com/Hira-28/C-practice/blob/main/developer.gif" alt="Banner" height="100" width="50%">
 </h1>
 
 
