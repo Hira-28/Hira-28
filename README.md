@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Hira-28/C-practice/blob/main/banner.gif" alt="Banner" width="100%">
+  <img src="https://github.com/Hira-28/C-practice/blob/main/banner.gif" alt="Banner" width="50%">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Hira</h1>
