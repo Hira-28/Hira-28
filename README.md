@@ -49,21 +49,21 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <h3 align="center">Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hira-28&show_icons=true&locale=en&layout=compact" alt="hira-28" />
+      <td width="50%" align="center" valign="top">
+        <h3>Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hira-28&show_icons=true&locale=en&layout=compact" alt="hira-28" style="width: 90%; height: auto;" />
       </td>
-      <td>
-        <h3 align="center">GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=hira-28&show_icons=true&locale=en" alt="hira-28" />
+      <td width="50%" align="center" valign="top">
+        <h3>GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=hira-28&show_icons=true&locale=en" alt="hira-28" style="width: 90%; height: auto;" />
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <h3>Contributions</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hira-28&" alt="hira-28" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hira-28&" alt="hira-28" style="width: 80%; height: auto;" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
