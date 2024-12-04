@@ -61,10 +61,14 @@
   </table>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <h3>Contributions</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hira-28&" alt="hira-28" style="width: 80%; height: auto;" />
-</div>
+## My GitHub Stats
+
+![Yatchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hafiz&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz&layout=compact&theme=radical)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
