@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Blue Corporate Linkedin Article Cover image .png" alt="Banner" height="190" width="70%">
+  <img src="Blue Corporate Linkedin Article Cover image .png" alt="Banner" height="190" width="100%">
 </h1>
 <h1 align="center">Hi, I'm Mehedi Hasan Hira</h1>
 <h5 align="center">A passionate frontend developer from Bangladesh</h5>
